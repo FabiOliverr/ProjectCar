@@ -167,7 +167,7 @@ p {
     position: absolute;
     top: 7%;
     left: 20%;
-    width: 394px;
+    width: 384px;
     z-index: var(--z-normal); }
   .home__information {
     padding-left: 4.25rem;
